@@ -48,7 +48,7 @@ if(b%5===0){
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
- let c = 2
+/*  let c = 2
 let d = 8
 if(c===8){
   console.log("c è uguale a 8");
@@ -62,7 +62,7 @@ if(c===8){
   console.log("La somma tra c e d è uguale a 8");
 } else {
   console.log("Ne c, ne d, ne la somma tra i due valori ne la loro differenza non è 8");
-} 
+}  */
 
 /* ESERCIZIO 5
   Stai lavorando su un sito di e-commerce. Stai salvando il saldo totale del carrello dell'utente in una variabile "totalShoppingCart".
