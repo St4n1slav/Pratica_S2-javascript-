@@ -6,14 +6,16 @@ alert("Tutte le risposte sono commentate.");
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-/* let x = 10
+/* let x = 20
 let y = 20
 if(x>y) {
-   console.log("x è maggiore di y")
+   console.log( + x + "è maggiore di" + y )
+}  else if (x<y){
+  console.log( + x + "è minore a" + y )
 } else {
-    console.log("x è minore di y");
-}  */
-
+    console.log( + x + "è uguale di" + y);
+} 
+ */
 /* ESERCIZIO 2
   Scrivi un algoritmo che mostri "not equal" in console se un numero intero fornito è diverso da 5.
 */
