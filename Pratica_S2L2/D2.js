@@ -1,4 +1,5 @@
-/* alert("Tutte le risposte sono commentate."); */
+alert("Tutte le risposte sono commentate.");
+
 /* ESERCIZIO 1
  Scrivi un algoritmo per trovare il più grande tra due numeri interi.
 */
