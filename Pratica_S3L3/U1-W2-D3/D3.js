@@ -101,7 +101,7 @@ const starWarsCharacters = [
   },
 ]
 
-alert("Tutte le risposte sono commentate.");
+/* alert("Tutte le risposte sono commentate."); */
 
 /* ESERCIZIO 1
   Crea una variabile chiamata "charactersNames" e assegnale un array vuoto
